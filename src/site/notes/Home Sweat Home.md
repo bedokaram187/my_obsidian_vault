@@ -5,3 +5,5 @@
 
 
 hello my friend. hello worlds!!
+
+[[information theory/channel capacity\|channel capacity]]
